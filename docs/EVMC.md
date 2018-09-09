@@ -45,7 +45,7 @@ can be referenced as EVMC ABIv3 or just EVMC 3.
 2. **Host** – An entity controlling the VM. 
    The Host requests code execution and responses to VM queries by callback 
    functions. This usually represents an Ethereum Client.
-   
+
 
 ## Responsibilities
 
